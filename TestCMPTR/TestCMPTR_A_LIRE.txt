@@ -1,0 +1,2 @@
+Il s'agit du programme de test de la carte compteur.
+permet de tester ecran LCD, BPs, entrée capteur, led
